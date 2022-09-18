@@ -1,0 +1,30 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+}
+
+#weather .box {
+  background-color: #4bd7f0;
+  width: 283px;
+  margin: 119px 0;
+  padding: 10px;
+  border-radius: 31px;
+}
+
+#weather .box .textbox h1, #weather .box .textbox h2 {
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 18px;
+}
+
+#weather .box .btn {
+  display: block;
+  padding: 7px;
+  margin: 16px auto;
+  color: #ffff;
+  background-color: #51a4db;
+  width: 174px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+/*# sourceMappingURL=style.css.map */
